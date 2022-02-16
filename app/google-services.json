@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "698737445438",
+    "firebase_url": "https://fir-s02-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-s02",
+    "storage_bucket": "fir-s02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698737445438:android:4ca97aa4ac8d0e64c69f6f",
+        "android_client_info": {
+          "package_name": "hu.petrik.firebases02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698737445438-el96unlmqceq6gm42ia93bpmfkot2kb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTNxQKpoxzvRozXW_vzRa2gCftUL_eAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698737445438-el96unlmqceq6gm42ia93bpmfkot2kb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
